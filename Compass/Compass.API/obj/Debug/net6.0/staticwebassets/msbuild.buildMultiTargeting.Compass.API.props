@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Compass.API.props" />
+</Project>
